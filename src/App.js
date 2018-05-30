@@ -19,6 +19,7 @@ const data = [
     des: '不是所有的兼职汪都需要风吹日晒',
   },
 ];
+
 const NUM_SECTIONS = 5;
 const NUM_ROWS_PER_SECTION = 5;
 let pageIndex = 0;
