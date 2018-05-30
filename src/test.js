@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { TabBar, ListView } from 'antd-mobile';
 
 const data = [
@@ -157,7 +156,7 @@ class ListViewExample extends React.Component {
   }
 }
 
-class App extends React.Component {
+class TabBarExample extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -294,4 +293,4 @@ class App extends React.Component {
   }
 }
 
-export default App;
+export default TestApp;
